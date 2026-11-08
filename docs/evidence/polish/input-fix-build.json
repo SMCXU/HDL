@@ -1,0 +1,10 @@
+{
+  "stage": "input-fix prototype",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "apk_sha256": "ead0c67cad31ca949393ee6f7115ab9c49e1e5e472cae5e847c7de8e6611a752",
+  "test_result": "60/60",
+  "installed_device": "JER-AN20 / Android 12",
+  "user_feedback": "误触已明显改善",
+  "human_20_minute_soak": "pending",
+  "multi_device_and_gamepad": "not tested"
+}

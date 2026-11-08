@@ -1,0 +1,12 @@
+{
+  "validation_type": "single-device capture; human play not automatically certified",
+  "source": "work/polish/baseline/device/frame-samples.csv",
+  "duration_s": 42.091999999999985,
+  "playing_frames": 2516,
+  "median_frame_ms": 16.6667,
+  "p95_frame_ms": 16.6667,
+  "p99_frame_ms": 16.6667,
+  "frames_ge_100ms": 1,
+  "memory_static_peak_bytes": 64809439,
+  "note": "Godot process static memory is not total Android PSS or GPU memory. Frame dt includes scheduler/presentation effects, not isolated GPU time. This summary does not certify human play or 20-minute acceptance."
+}

@@ -1,0 +1,52 @@
+[gd_resource type="Resource" load_steps=9 format=3]
+[ext_resource type="Script" path="res://scripts/level/level_spec.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/level/encounter_spec.gd" id="2"]
+[sub_resource type="Resource" id="S0"]
+script=ExtResource("2")
+title="坝底支架"
+[sub_resource type="Resource" id="S1"]
+script=ExtResource("2")
+title="泄洪水幕"
+[sub_resource type="Resource" id="S2"]
+script=ExtResource("2")
+title="中层维护台"
+[sub_resource type="Resource" id="S3"]
+script=ExtResource("2")
+title="交叉火力层"
+[sub_resource type="Resource" id="S4"]
+script=ExtResource("2")
+title="供能支架层"
+[sub_resource type="Resource" id="S5"]
+script=ExtResource("2")
+title="主闸上行层"
+[resource]
+script=ExtResource("1")
+id="spillway"
+title="暴雨水坝 · 纵向突入"
+length=960.0
+ground=435.0
+vertical=true
+play_left=80.0
+play_right=880.0
+world_top=-3160.0
+spawn=Vector2(300,435)
+boss_checkpoint=Vector2(360.0,-2685)
+boss_trigger=0.0
+boss_left=80.0
+boss_position=Vector2(720,-2940)
+boss_trigger_zone=Rect2(140,-2720,470,48)
+gate_x=960.0
+sectors=Array[Resource]([SubResource("S0"),SubResource("S1"),SubResource("S2"),SubResource("S3"),SubResource("S4"),SubResource("S5")])
+height_ends=PackedFloat32Array(480,1080,1560,2160,2640,3121)
+music_tracks=PackedStringArray("spillway","ascent","ascent","ascent","spillway","spillway","warden")
+floor_rects=Array[Rect2]([Rect2(200,435,560,105),Rect2(80,-2685,800,70)])
+extra_platforms=Array[Rect2]([Rect2(156.0,375,168,18),Rect2(96.0,315,168,18),Rect2(186.0,255,168,18),Rect2(276.0,195,168,18),Rect2(366.0,135,168,18),Rect2(456.0,75,168,18),Rect2(366.0,15,168,18),Rect2(276.0,-45,168,18),Rect2(186.0,-85,168,18),Rect2(276.0,-145,168,18),Rect2(366.0,-205,168,18),Rect2(456.0,-265,168,18),Rect2(546.0,-325,168,18),Rect2(456.0,-385,168,18),Rect2(366.0,-445,168,18),Rect2(276.0,-505,168,18),Rect2(366.0,-565,168,18),Rect2(456.0,-605,168,18),Rect2(546.0,-665,168,18),Rect2(636.0,-725,168,18),Rect2(546.0,-785,168,18),Rect2(456.0,-845,168,18),Rect2(366.0,-905,168,18),Rect2(456.0,-965,168,18),Rect2(546.0,-1025,168,18),Rect2(636.0,-1085,168,18),Rect2(726.0,-1125,168,18),Rect2(636.0,-1185,168,18),Rect2(546.0,-1245,168,18),Rect2(456.0,-1305,168,18),Rect2(366.0,-1365,168,18),Rect2(456.0,-1425,168,18),Rect2(546.0,-1485,168,18),Rect2(636.0,-1545,168,18),Rect2(546.0,-1605,168,18),Rect2(456.0,-1645,168,18),Rect2(366.0,-1705,168,18),Rect2(276.0,-1765,168,18),Rect2(366.0,-1825,168,18),Rect2(456.0,-1885,168,18),Rect2(546.0,-1945,168,18),Rect2(456.0,-2005,168,18),Rect2(366.0,-2065,168,18),Rect2(276.0,-2125,168,18),Rect2(186.0,-2165,168,18),Rect2(276.0,-2225,168,18),Rect2(366.0,-2285,168,18),Rect2(456.0,-2345,168,18),Rect2(366.0,-2405,168,18),Rect2(276.0,-2465,168,18),Rect2(186.0,-2525,168,18),Rect2(96.0,-2585,168,18),Rect2(186.0,-2645,168,18),Rect2(276.0,-2685,168,18),Rect2(80,315,264,18),Rect2(80,255,560.0,16),Rect2(170.0,75,470.0,16),Rect2(170.0,-85,470.0,16),Rect2(260.0,-265,470.0,16),Rect2(498.0,-325,264,18),Rect2(260.0,-445,470.0,16),Rect2(228.0,-505,264,18),Rect2(260.0,-605,560.0,16),Rect2(588.0,-725,264,18),Rect2(350.0,-785,470.0,16),Rect2(318.0,-905,264,18),Rect2(350.0,-965,530.0,16),Rect2(440.0,-1125,440.0,16),Rect2(350.0,-1305,470.0,16),Rect2(318.0,-1365,264,18),Rect2(350.0,-1485,470.0,16),Rect2(588.0,-1545,264,18),Rect2(260.0,-1645,560.0,16),Rect2(228.0,-1765,264,18),Rect2(260.0,-1825,470.0,16),Rect2(498.0,-1945,264,18),Rect2(170.0,-2005,560.0,16),Rect2(170.0,-2165,470.0,16),Rect2(170.0,-2345,470.0,16),Rect2(80,-2525,470.0,16),Rect2(80,-2585,264,18),Rect2(80,-2685,380.0,16),Rect2(470.0,-665,320,18),Rect2(200.0,-1765,320,18),Rect2(200.0,-2685,320,18),Rect2(745,75,120,18),Rect2(745,-145,120,18),Rect2(95,-385,120,18),Rect2(745,-625,120,18),Rect2(95,-905,120,18),Rect2(95,-1185,120,18),Rect2(745,-1425,120,18),Rect2(95,-1665,120,18),Rect2(95,-2005,120,18),Rect2(745,-2225,120,18),Rect2(745,-2525,120,18),Rect2(305.0,-205,150,18),Rect2(735.0,-1245,150,18),Rect2(740.0,-1945,150,18),Rect2(210.0,-2225,150,18)])
+climb_route=PackedVector2Array(240.0,375,180.0,315,270.0,255,360.0,195,450.0,135,540.0,75,450.0,15,360.0,-45,270.0,-85,360.0,-145,450.0,-205,540.0,-265,630.0,-325,540.0,-385,450.0,-445,360.0,-505,450.0,-565,540.0,-605,630.0,-665,720.0,-725,630.0,-785,540.0,-845,450.0,-905,540.0,-965,630.0,-1025,720.0,-1085,810.0,-1125,720.0,-1185,630.0,-1245,540.0,-1305,450.0,-1365,540.0,-1425,630.0,-1485,720.0,-1545,630.0,-1605,540.0,-1645,450.0,-1705,360.0,-1765,450.0,-1825,540.0,-1885,630.0,-1945,540.0,-2005,450.0,-2065,360.0,-2125,270.0,-2165,360.0,-2225,450.0,-2285,540.0,-2345,450.0,-2405,360.0,-2465,270.0,-2525,180.0,-2585,270.0,-2645,360.0,-2685)
+checkpoint_points=PackedVector2Array(630.0,-665,360.0,-1765,360.0,-2685)
+checkpoint_ids=PackedStringArray("maintenance","power","summit")
+pickup_points=PackedVector2Array(540.0,45,720.0,-755,450.0,-1855,180.0,-2615)
+encounter_data=Array[Dictionary]([{"id":"V00","trigger":Rect2(80,100,800,115),"positions":[Vector2(805,75)],"types":[0],"condition":"exit_reached"},{"id":"V01","trigger":Rect2(80,-120,800,115),"positions":[Vector2(805,-145)],"types":[1],"condition":"exit_reached"},{"id":"V02","trigger":Rect2(80,-360,800,115),"positions":[Vector2(155,-385)],"types":[0],"condition":"exit_reached"},{"id":"V03","trigger":Rect2(80,-600,800,115),"positions":[Vector2(805,-625),Vector2(310.0,-725)],"types":[0,2],"condition":"exit_reached"},{"id":"V04","trigger":Rect2(80,-880,800,115),"positions":[Vector2(155,-905),Vector2(680.0,-1005)],"types":[1,2],"condition":"exit_reached"},{"id":"V05","trigger":Rect2(80,-1160,800,115),"positions":[Vector2(155,-1185),Vector2(840,-1285)],"types":[0,2],"condition":"exit_reached"},{"id":"V06","trigger":Rect2(80,-1400,800,115),"positions":[Vector2(805,-1425),Vector2(310.0,-1525)],"types":[0,2],"condition":"exit_reached"},{"id":"V07","trigger":Rect2(80,-1640,800,115),"positions":[Vector2(155,-1665),Vector2(770.0,-1765)],"types":[1,2],"condition":"exit_reached"},{"id":"V08","trigger":Rect2(80,-1980,800,115),"positions":[Vector2(155,-2005),Vector2(770.0,-2105)],"types":[0,2],"condition":"exit_reached"},{"id":"V09","trigger":Rect2(80,-2200,800,115),"positions":[Vector2(805,-2225),Vector2(130.0,-2325)],"types":[0,2],"condition":"exit_reached"},{"id":"V10","trigger":Rect2(80,-2500,800,115),"positions":[Vector2(805,-2525),Vector2(220.0,-2625)],"types":[1,2],"condition":"exit_reached"}])
+target_data=Array[Dictionary]([{"id":"relay","pos":Vector2(610.0,75),"max_hp":6,"optional":true},{"id":"node_a","pos":Vector2(605.0,-1885),"max_hp":8,"optional":true},{"id":"node_b","pos":Vector2(205.0,-2165),"max_hp":8,"optional":true}])
+hazard_data=Array[Dictionary]([{"id":"vent_a","kind":"vent","area":Rect2(325.0,-277,60,72),"source":"","warning":0.9,"active":0.75,"cooldown":1.6},{"id":"vent_b","kind":"vent","area":Rect2(755.0,-1317,60,72),"source":"","warning":0.9,"active":0.75,"cooldown":1.6},{"id":"grid_a","kind":"electric","area":Rect2(760.0,-1959,70,14),"source":"node_a","warning":0.8,"active":0.65,"cooldown":1.8},{"id":"grid_b","kind":"electric","area":Rect2(230.0,-2239,70,14),"source":"node_b","warning":0.8,"active":0.65,"cooldown":1.8}])
+pickup_data=Array[Dictionary]([{"id":"spill_s1","pos":Vector2(540.0,45),"kind":"spread"},{"id":"spill_f1","pos":Vector2(720.0,-755),"kind":"fireball"},{"id":"spill_r1","pos":Vector2(450.0,-1395),"kind":"rapid"},{"id":"spill_l1","pos":Vector2(450.0,-1855),"kind":"laser"}])
+boss_supply=Vector2(300.0,-2710)

@@ -1,0 +1,244 @@
+{
+  "deaths": 23,
+  "duration_s": 180.0,
+  "elapsed_s": 69.3833333333307,
+  "invulnerable": true,
+  "result": "completed",
+  "retry_count": 23,
+  "retry_samples": [
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 0,
+      "effects": 5,
+      "memory_static_bytes": 56295789.0,
+      "objects": 1513.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 1,
+      "effects": 4,
+      "memory_static_bytes": 62368385.0,
+      "objects": 1543.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 2,
+      "effects": 5,
+      "memory_static_bytes": 62404635.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 3,
+      "effects": 4,
+      "memory_static_bytes": 62363989.0,
+      "objects": 1544.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 4,
+      "effects": 5,
+      "memory_static_bytes": 62404667.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 5,
+      "effects": 4,
+      "memory_static_bytes": 62376253.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 6,
+      "effects": 5,
+      "memory_static_bytes": 62392651.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 7,
+      "effects": 4,
+      "memory_static_bytes": 62376969.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 8,
+      "effects": 5,
+      "memory_static_bytes": 62404915.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 9,
+      "effects": 4,
+      "memory_static_bytes": 62376969.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 10,
+      "effects": 5,
+      "memory_static_bytes": 62405303.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 11,
+      "effects": 4,
+      "memory_static_bytes": 62376889.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 12,
+      "effects": 5,
+      "memory_static_bytes": 62404915.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 13,
+      "effects": 4,
+      "memory_static_bytes": 62376969.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 14,
+      "effects": 5,
+      "memory_static_bytes": 62404667.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 15,
+      "effects": 4,
+      "memory_static_bytes": 62364705.0,
+      "objects": 1544.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 16,
+      "effects": 5,
+      "memory_static_bytes": 62405383.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 17,
+      "effects": 4,
+      "memory_static_bytes": 62376253.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 18,
+      "effects": 5,
+      "memory_static_bytes": 62405383.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 19,
+      "effects": 4,
+      "memory_static_bytes": 62376969.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 20,
+      "effects": 5,
+      "memory_static_bytes": 62404835.0,
+      "objects": 1546.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 21,
+      "effects": 4,
+      "memory_static_bytes": 62376253.0,
+      "objects": 1545.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 6,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 22,
+      "effects": 5,
+      "memory_static_bytes": 62404915.0,
+      "objects": 1546.0
+    }
+  ],
+  "run_id": "58c2e5357e6147efbbe3472040330c65",
+  "test_mode": "retries",
+  "validation_type": "single-device automated debug replay, not human play or touch hardware validation",
+  "wins": 0
+}

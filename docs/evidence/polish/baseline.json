@@ -1,0 +1,7 @@
+{
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "source_archive_sha256": "109c033e8a043310c68e5229a74cf03e2ee5d227239076d13a05523b5f2d60f1",
+  "apk_sha256": "efb4681bf418c2e26e6b342326b6b68b1d2704f15dcb89d3440b61d7ed5586cb",
+  "device_status": "ADB devices list empty at baseline check; current device performance not tested",
+  "source_manifest": "work/polish/baseline/source-manifest.json"
+}

@@ -1,0 +1,9 @@
+{
+  "deaths": 0,
+  "duration_s": 180.0,
+  "elapsed_s": 180.000000000035,
+  "invulnerable": true,
+  "result": "completed",
+  "validation_type": "single-device automated debug replay, not human play or touch hardware validation",
+  "wins": 1
+}

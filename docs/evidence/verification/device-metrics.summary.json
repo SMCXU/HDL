@@ -1,0 +1,54 @@
+{
+  "validation_type": "single-device short retry scenario; battery sensor not skin temperature",
+  "samples": [
+    {
+      "elapsed_playing_s": 3.01666666666666,
+      "android_total_pss_kib": 236888,
+      "battery_temp_c": 31.0,
+      "ac_powered": true,
+      "usb_powered": false
+    },
+    {
+      "elapsed_playing_s": 15.0833333333337,
+      "android_total_pss_kib": 237954,
+      "battery_temp_c": 32.0,
+      "ac_powered": true,
+      "usb_powered": false
+    },
+    {
+      "elapsed_playing_s": 24.1333333333332,
+      "android_total_pss_kib": 241038,
+      "battery_temp_c": 32.0,
+      "ac_powered": true,
+      "usb_powered": false
+    },
+    {
+      "elapsed_playing_s": 36.1999999999992,
+      "android_total_pss_kib": 242220,
+      "battery_temp_c": 32.0,
+      "ac_powered": true,
+      "usb_powered": false
+    },
+    {
+      "elapsed_playing_s": 48.2666666666652,
+      "android_total_pss_kib": 240966,
+      "battery_temp_c": 32.0,
+      "ac_powered": true,
+      "usb_powered": false
+    },
+    {
+      "elapsed_playing_s": 60.3333333333312,
+      "android_total_pss_kib": 240340,
+      "battery_temp_c": 32.0,
+      "ac_powered": true,
+      "usb_powered": false
+    },
+    {
+      "elapsed_playing_s": 69.3833333333307,
+      "android_total_pss_kib": 245027,
+      "battery_temp_c": 32.0,
+      "ac_powered": true,
+      "usb_powered": false
+    }
+  ]
+}

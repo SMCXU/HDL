@@ -1,0 +1,52 @@
+Applications Memory Usage (in Kilobytes):
+Uptime: 124583861 Realtime: 205723730
+
+** MEMINFO in pid 30850 [com.hdl.ironbreakout] **
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap    83152    83096        4       49    84624   102548    99125     3437
+  Dalvik Heap     2215     2080       56       42     3848     7846     2315     5531
+ Dalvik Other     3342     2820      160       11     4376                           
+        Stack      904      904        0        0      920                           
+       Ashmem       19        0        0        0      352                           
+    Other dev       30        8       20        0      432                           
+     .so mmap    42342     2084    37548       39    70712                           
+    .jar mmap     1237        0      196        0    26160                           
+    .apk mmap      119        0       12        0      868                           
+    .ttf mmap        3        0        0        0       32                           
+    .dex mmap     6070     6052        0        0     6996                           
+    .oat mmap       27        0        0        0     1504                           
+    .art mmap     8574     7700      548       76    19416                           
+   Other mmap       11        8        0        0      472                           
+    GL mtrack   106956   106956        0        0   106956                           
+      Unknown     2672     2620       16        2     3228                           
+        TOTAL   257892   214328    38560      219   330896   110394   101440     8968
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:    10328                          23264
+         Native Heap:    83096                          84624
+                Code:    45908                         106920
+               Stack:      904                            920
+            Graphics:   106956                         106956
+       Private Other:     5696
+              System:     5004
+             Unknown:                                    8212
+ 
+           TOTAL PSS:   257892            TOTAL RSS:   330896       TOTAL SWAP PSS:      219
+ 
+ Objects
+               Views:       -1         ViewRootImpl:       -1
+         AppContexts:       -1           Activities:       -1
+              Assets:        5        AssetManagers:        0
+       Local Binders:       12        Proxy Binders:       44
+       Parcel memory:        6         Parcel count:       23
+    Death Recipients:        1      OpenSSL Sockets:       -1
+            WebViews:       -1
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

@@ -1,0 +1,10 @@
+{
+  "duration_s": 240,
+  "invulnerable": true,
+  "run_id": "bb7e954792634d00b8e3263847003ffc",
+  "mode": "retries",
+  "retry_count": 23,
+  "level_id": "redrock",
+  "weapon_id": "cycle",
+  "rapid": true
+}

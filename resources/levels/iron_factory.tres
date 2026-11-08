@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=5 format=3]
+[ext_resource type="Script" path="res://scripts/level/level_spec.gd" id="1"]
+[ext_resource type="Resource" path="res://resources/encounters/sector1.tres" id="2"]
+[ext_resource type="Resource" path="res://resources/encounters/sector2.tres" id="3"]
+[ext_resource type="Resource" path="res://resources/encounters/sector3.tres" id="4"]
+[resource]
+script=ExtResource("1")
+sectors=Array[Resource]([ExtResource("2"),ExtResource("3"),ExtResource("4")])
+floor_rects=Array[Rect2]([Rect2(0,435,37600,105)])
+pickup_points=PackedVector2Array(1100,310,13050,310,25000,310)
+
+pickup_data=Array[Dictionary]([{"id":"factory_m1","pos":Vector2(1100,310),"kind":"machine"},{"id":"factory_s1","pos":Vector2(13050,310),"kind":"spread"},{"id":"factory_r1","pos":Vector2(16640,320),"kind":"rapid"},{"id":"factory_l1","pos":Vector2(25000,310),"kind":"laser"}])
+boss_supply=Vector2(35820,405)

@@ -1,0 +1,14 @@
+{
+  "deaths": 0,
+  "duration_s": 180.0,
+  "elapsed_s": 69.316666666664,
+  "invulnerable": true,
+  "level_id": "spillway",
+  "result": "cancelled_by_human_input",
+  "retry_count": 0,
+  "retry_samples": [],
+  "run_id": "1a04be5460ae4709aa03683ef511b534",
+  "test_mode": "route",
+  "validation_type": "single-device automated debug replay, not human play or touch hardware validation",
+  "wins": 1
+}

@@ -1,0 +1,49 @@
++ /Users/huangbo/WS_VS/HDL/work/engine/Godot.app/Contents/MacOS/Godot --headless --path /Users/huangbo/WS_VS/HDL --editor --import --quit
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 项目初始化 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 正在扫描文件结构……[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 正在加载全局类名……[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | 正在校验 GDExtension……[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 正在创建自动加载脚本……[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 正在初始化插件……[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started 正在加载编辑器 (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | 正在加载编辑器布局……[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | 正在加载停靠面板……[39m[0m
+[  33% ] [90m[1mloading_editor_layout[22m | 正在重新打开场景……[39m[0m
+[  50% ] [90m[1mloading_editor_layout[22m | 正在加载中央编辑器布局……[39m[0m
+[  66% ] [90m[1mloading_editor_layout[22m | 正在加载插件窗口布局……[39m[0m
+[  83% ] [90m[1mloading_editor_layout[22m | 编辑器布局就绪。[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+PASS new run creates healthy player and 18 enemies
+PASS movement is fixed-step and correctly scaled
+PASS jump starts from ground
+PASS holding jump does not repeatedly auto-jump
+PASS fast fall lands on one-way platform without tunneling
+PASS platform can be crossed from below
+PASS invincibility prevents duplicate damage
+PASS rifle emits one projectile
+PASS spread emits three distinct projectiles
+PASS weapon pickup equips and is consumed
+PASS checkpoint reset clears encounter and restores baseline
+PASS arena activates fresh boss
+PASS boss defeat ends run exactly once
+PASS retry cleans previous boss and projectiles
+PASS focus loss pauses and clears held input
+PASS pause menu opens settings
+PASS settings returns to paused state without resuming combat
+PASS malformed save types fall back and numeric ranges are clamped
+PASS boss alternates fan and aimed attacks
+PASS 20-minute simulated soak keeps audio voices and transient objects bounded
+RESULT 20/20 passed
+

@@ -1,0 +1,8 @@
+{
+  "model": "JER-AN20\n",
+  "android": "12\n",
+  "resolution": "Physical size: 1080x2340\n",
+  "battery": "Current Battery Service state:\n  AC powered: true\n  USB powered: false\n  Wireless powered: false\n  Max charging current: 0\n  Max charging voltage: 0\n  Charge counter: 1000\n  status: 5\n  health: 2\n  present: true\n  level: 100\n  scale: 100\n  voltage: 4336\n  temperature: 320\n  technology: Li-poly\n",
+  "recorded_utc": "2026-11-05T06:20:27Z",
+  "validation_type": "single-device capture; interaction source must be recorded separately"
+}

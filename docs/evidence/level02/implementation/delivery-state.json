@@ -1,0 +1,6 @@
+{
+  "settings_unchanged_during_preview_launch": true,
+  "settings_sha256": "ddc849cbbc451e3f89fbcbb43e4d84245da4f8e54b0ab93203193a12b2448460",
+  "expected_state": "spillway debug preview paused; must inspect screenshot",
+  "automatic_replay_disabled": true
+}

@@ -1,0 +1,11 @@
+{
+  "validation_type": "single-device final installed launch and screenshot; not human gameplay",
+  "settings_unchanged_during_final_preview": true,
+  "remaining_debug_files": {
+    "qa-replay.json": false,
+    "telemetry.flag": false,
+    "preview-level.json": false
+  },
+  "pid": "32368",
+  "error_lines": []
+}

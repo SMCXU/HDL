@@ -1,0 +1,152 @@
+{
+  "validation_type": "numeric waveform checks, not listening",
+  "assets": [
+    {
+      "asset": "assets/audio/back.wav",
+      "duration_s": 0.12,
+      "peak": 0.39239501953125,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/boss.wav",
+      "duration_s": 26.666666666666668,
+      "peak": 0.42889404296875,
+      "clipped_samples": 0,
+      "boundary_difference": 0
+    },
+    {
+      "asset": "assets/audio/boss_death.wav",
+      "duration_s": 1.3999546485260772,
+      "peak": 0.405120849609375,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/boss_shot.wav",
+      "duration_s": 0.26,
+      "peak": 0.360748291015625,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/confirm.wav",
+      "duration_s": 0.1,
+      "peak": 0.3941650390625,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/core.wav",
+      "duration_s": 28.235283446712018,
+      "peak": 0.432525634765625,
+      "clipped_samples": 0,
+      "boundary_difference": 0
+    },
+    {
+      "asset": "assets/audio/death.wav",
+      "duration_s": 0.6,
+      "peak": 0.397552490234375,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/enemy_hit.wav",
+      "duration_s": 0.08,
+      "peak": 0.388763427734375,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/enemy_shot.wav",
+      "duration_s": 0.14,
+      "peak": 0.353057861328125,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/explosion.wav",
+      "duration_s": 0.44997732426303855,
+      "peak": 0.39300537109375,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/failure.wav",
+      "duration_s": 1.5,
+      "peak": 0.447509765625,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/hit.wav",
+      "duration_s": 0.18,
+      "peak": 0.390625,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/jump.wav",
+      "duration_s": 0.16997732426303855,
+      "peak": 0.397674560546875,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/land.wav",
+      "duration_s": 0.08997732426303855,
+      "peak": 0.338165283203125,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/level.wav",
+      "duration_s": 32.0,
+      "peak": 0.428955078125,
+      "clipped_samples": 0,
+      "boundary_difference": 0
+    },
+    {
+      "asset": "assets/audio/pickup.wav",
+      "duration_s": 0.32,
+      "peak": 0.40313720703125,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/shot.wav",
+      "duration_s": 0.10997732426303855,
+      "peak": 0.335174560546875,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/spread.wav",
+      "duration_s": 0.18,
+      "peak": 0.35113525390625,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/victory.wav",
+      "duration_s": 1.5,
+      "peak": 0.447509765625,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/warning.wav",
+      "duration_s": 0.24997732426303854,
+      "peak": 0.403564453125,
+      "clipped_samples": 0,
+      "boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/workshop.wav",
+      "duration_s": 30.0,
+      "peak": 0.43023681640625,
+      "clipped_samples": 0,
+      "boundary_difference": 0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "validation_type": "final single-device installed launch/screenshot, not human gameplay",
+  "version": [
+    "versionCode=7 minSdk=24 targetSdk=36",
+    "versionName=0.4.0-prototype"
+  ],
+  "settings_unchanged_during_final_preview": true,
+  "settings_sha256": "eb551c92f79ba3941fd463c3395806eeacb3249b3875d16fea0ea1ef42f1283a",
+  "remaining_debug_files": {
+    "qa-replay.json": false,
+    "telemetry.flag": false,
+    "preview-level.json": false
+  },
+  "error_lines": []
+}

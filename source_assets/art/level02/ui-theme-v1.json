@@ -1,0 +1,8 @@
+{
+  "kind": "visual concept preview, not runtime assets or actual gameplay screenshot",
+  "tool": "built-in image_gen",
+  "source_image": "ui-theme-v1-source.png",
+  "preview": "docs/evidence/level02/ui-theme-v1.png",
+  "status": "User approved style and authorized implementation on 2026-11-04",
+  "notes": "Three-scene mood/HUD board. Text, collisions, water/rain density and boss geometry require production validation; no game code or APK changed."
+}

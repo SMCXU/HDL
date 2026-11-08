@@ -1,0 +1,26 @@
+{
+  "validation_type": "single Android device; ADB synthetic keyboard input, not manual multitouch acceptance",
+  "start": {
+    "player_x": "300.00",
+    "player_y": "435.00",
+    "camera_y": "0.00",
+    "mode": "playing",
+    "debug_run": "true"
+  },
+  "upper": {
+    "player_x": "300.00",
+    "player_y": "435.00",
+    "camera_y": "0.00",
+    "mode": "playing",
+    "debug_run": "true"
+  },
+  "lower": {
+    "player_x": "300.00",
+    "player_y": "375.00",
+    "camera_y": "0.00",
+    "mode": "playing",
+    "debug_run": "true"
+  },
+  "jump_landed_on_upper": false,
+  "combo_descended": false
+}

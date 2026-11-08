@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen via imagegen skill",
+  "date": "2026-11-05",
+  "purpose": "original production bitmap components matching approved ui-theme-v1; not copied commercial game assets",
+  "assets": [
+    {
+      "source": "source_assets/art/level03/redrock-background-source.png",
+      "runtime": "assets/art/level03/redrock-background.png",
+      "prompt": "redrock-background.prompt.txt",
+      "sha256": "c5c5eb34184c74741dc3de729e99771c3a83428fa7817e15a944b930bd3f1b40"
+    },
+    {
+      "source": "source_assets/art/level03/redrock-atlas-source.png",
+      "runtime": "assets/art/level03/redrock-atlas.png",
+      "prompt": "redrock-atlas.prompt.txt",
+      "sha256": "aab05c4f0a8747c8e34c0794ba2b153c6e6fbbc1243636cce5c30a969941ea12"
+    },
+    {
+      "source": "source_assets/art/level03/cliff-citadel-source.png",
+      "runtime": "assets/art/level03/cliff-citadel.png",
+      "prompt": "cliff-citadel.prompt.txt",
+      "sha256": "62bad84009af9ebe51919f9d4df2cd02ffd79003cc6f1fc074679aefb315d15d"
+    }
+  ],
+  "notes": "Atlas has real alpha (Godot FORMAT_RGBA8/detect_alpha2). RGB in transparent pixels is irrelevant. Sprite regions measured in assets/art/level03/regions.json. Citadel image has two side banks each drawn with two barrels; banks share HP, core independent."
+}

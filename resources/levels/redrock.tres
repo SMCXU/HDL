@@ -1,0 +1,52 @@
+[gd_resource type="Resource" load_steps=9 format=3]
+[ext_resource type="Script" path="res://scripts/level/level_spec.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/level/encounter_spec.gd" id="2"]
+[sub_resource type="Resource" id="S0"]
+script=ExtResource("2")
+title="峡口入侵"
+[sub_resource type="Resource" id="S1"]
+script=ExtResource("2")
+title="碎岩瀑道"
+[sub_resource type="Resource" id="S2"]
+script=ExtResource("2")
+title="浮岩渡口"
+[sub_resource type="Resource" id="S3"]
+script=ExtResource("2")
+title="灼流残桥"
+[sub_resource type="Resource" id="S4"]
+script=ExtResource("2")
+title="夹击断崖"
+[sub_resource type="Resource" id="S5"]
+script=ExtResource("2")
+title="峰顶突击"
+[resource]
+script=ExtResource("1")
+id="redrock"
+title="赤岩瀑布 · 断崖要塞"
+length=960.0
+ground=435.0
+vertical=true
+play_left=80.0
+play_right=880.0
+world_top=-2700.0
+spawn=Vector2(300,435)
+boss_checkpoint=Vector2(560.0,-2205)
+boss_left=80.0
+boss_position=Vector2(480,-2415)
+boss_trigger_zone=Rect2(150,-2240,650,48)
+sectors=Array[Resource]([SubResource("S0"),SubResource("S1"),SubResource("S2"),SubResource("S3"),SubResource("S4"),SubResource("S5")])
+height_ends=PackedFloat32Array(360,840,1320,1680,2280,2641)
+music_tracks=PackedStringArray("redrock","redrock","summit","summit","summit","redrock","citadel")
+floor_rects=Array[Rect2]([Rect2(200,435,560,100),Rect2(80,-2205,800,80)])
+extra_platforms=Array[Rect2]([Rect2(156.0,375,168,16),Rect2(96.0,315,168,16),Rect2(80,315,240,16),Rect2(176.0,255,168,16),Rect2(256.0,195,168,16),Rect2(170.0,195,340,16),Rect2(336.0,135,168,16),Rect2(416.0,75,168,16),Rect2(380.0,75,240,16),Rect2(336.0,15,168,16),Rect2(256.0,-45,168,16),Rect2(170.0,-45,340,16),Rect2(176.0,-105,168,16),Rect2(140.0,-105,240,16),Rect2(266.0,-165,168,16),Rect2(356.0,-225,168,16),Rect2(446.0,-285,168,16),Rect2(360.0,-285,340,16),Rect2(536.0,-345,168,16),Rect2(500.0,-345,240,16),Rect2(456.0,-405,168,16),Rect2(376.0,-465,168,16),Rect2(296.0,-525,168,16),Rect2(260.0,-525,240,16),Rect2(210.0,-525,340,16),Rect2(376.0,-585,168,16),Rect2(536.0,-705,168,16),Rect2(500.0,-705,240,16),Rect2(446.0,-765,168,16),Rect2(360.0,-765,340,16),Rect2(356.0,-825,168,16),Rect2(266.0,-885,168,16),Rect2(230.0,-885,240,16),Rect2(366.0,-945,168,16),Rect2(466.0,-1005,168,16),Rect2(380.0,-1005,340,16),Rect2(566.0,-1065,168,16),Rect2(530.0,-1065,240,16),Rect2(486.0,-1125,168,16),Rect2(406.0,-1185,168,16),Rect2(326.0,-1245,168,16),Rect2(290.0,-1245,240,16),Rect2(240.0,-1245,340,16),Rect2(406.0,-1305,168,16),Rect2(486.0,-1365,168,16),Rect2(566.0,-1425,168,16),Rect2(646.0,-1485,168,16),Rect2(610.0,-1485,240,16),Rect2(540,-1485,340,16),Rect2(486.0,-1605,168,16),Rect2(406.0,-1665,168,16),Rect2(326.0,-1725,168,16),Rect2(290.0,-1725,240,16),Rect2(240.0,-1725,340,16),Rect2(406.0,-1785,168,16),Rect2(486.0,-1845,168,16),Rect2(566.0,-1905,168,16),Rect2(530.0,-1905,240,16),Rect2(476.0,-1965,168,16),Rect2(390.0,-1965,340,16),Rect2(386.0,-2025,168,16),Rect2(296.0,-2085,168,16),Rect2(260.0,-2085,240,16),Rect2(386.0,-2145,168,16),Rect2(476.0,-2205,168,16),Rect2(440.0,-2205,240,16),Rect2(390.0,-2205,340,16),Rect2(330.0,-585,260,16),Rect2(600.0,-1485,260,16),Rect2(426.0,15,168,16),Rect2(346.0,-45,168,16),Rect2(266.0,-105,168,16),Rect2(396.0,-1365,168,16),Rect2(476.0,-1425,168,16),Rect2(556.0,-1485,168,16),Rect2(476.0,-1545,168,16),Rect2(380.0,-405,320,18),Rect2(250.0,-1245,320,18),Rect2(400.0,-2205,320,18),Rect2(735,75,130,16),Rect2(735,-105,130,16),Rect2(735,-285,130,16),Rect2(95,-405,130,16),Rect2(735,-945,130,16),Rect2(95,-1125,130,16),Rect2(735,-1305,130,16),Rect2(95,-1485,130,16),Rect2(735,-1785,130,16),Rect2(95,-1965,130,16),Rect2(735,-2145,130,16),Rect2(645.0,-1005,160,16),Rect2(665.0,-1125,160,16),Rect2(110,-2265,190,16),Rect2(660,-2265,190,16)])
+climb_route=PackedVector2Array(240.0,375,180.0,315,260.0,255,340.0,195,420.0,135,500.0,75,420.0,15,340.0,-45,260.0,-105,350.0,-165,440.0,-225,530.0,-285,620.0,-345,540.0,-405,460.0,-465,380.0,-525,460.0,-585,540.0,-645,620.0,-705,530.0,-765,440.0,-825,350.0,-885,450.0,-945,550.0,-1005,650.0,-1065,570.0,-1125,490.0,-1185,410.0,-1245,490.0,-1305,570.0,-1365,650.0,-1425,730.0,-1485,650.0,-1545,570.0,-1605,490.0,-1665,410.0,-1725,490.0,-1785,570.0,-1845,650.0,-1905,560.0,-1965,470.0,-2025,380.0,-2085,470.0,-2145,560.0,-2205)
+checkpoint_points=PackedVector2Array(540.0,-405,410.0,-1245,560.0,-2205)
+checkpoint_ids=PackedStringArray("rock_merge","bridge_exit","summit")
+pickup_points=PackedVector2Array(500.0,45,410.0,-1275,470.0,-2175)
+encounter_data=Array[Dictionary]([{"id":"R00","trigger":Rect2(80,110,800,105),"positions":[Vector2(800,75)],"types":[0]},{"id":"R01","trigger":Rect2(80,-70,800,105),"positions":[Vector2(800,-105)],"types":[1]},{"id":"R02","trigger":Rect2(80,-250,800,105),"positions":[Vector2(800,-285)],"types":[0]},{"id":"R03","trigger":Rect2(80,-370,800,105),"positions":[Vector2(160,-405)],"types":[0]},{"id":"R04","trigger":Rect2(80,-910,800,105),"positions":[Vector2(800,-945)],"types":[1]},{"id":"R05","trigger":Rect2(80,-1090,800,105),"positions":[Vector2(160,-1125),Vector2(550.0,-1225)],"types":[0,2]},{"id":"R06","trigger":Rect2(80,-1270,800,105),"positions":[Vector2(800,-1305)],"types":[0]},{"id":"R07","trigger":Rect2(80,-1450,800,105),"positions":[Vector2(160,-1485),Vector2(550.0,-1585)],"types":[1,2]},{"id":"R08","trigger":Rect2(80,-1750,800,105),"positions":[Vector2(800,-1785),Vector2(310.0,-1885)],"types":[0,2]},{"id":"R09","trigger":Rect2(80,-1930,800,105),"positions":[Vector2(160,-1965),Vector2(550.0,-2065)],"types":[0,2]},{"id":"R10","trigger":Rect2(80,-2110,800,105),"positions":[Vector2(800,-2145)],"types":[1]}])
+hazard_data=Array[Dictionary]([{"id":"fire0","kind":"vent","source":"","area":Rect2(670.0,-1070,50,65),"warning":1.0,"active":0.7,"cooldown":1.8},{"id":"fire1","kind":"vent","source":"","area":Rect2(690.0,-1190,50,65),"warning":1.0,"active":0.7,"cooldown":1.8}])
+rock_data=Array[Dictionary]([{"id":"rock0","area":Rect2(205.0,-255,48,200),"warning":1.1,"speed":240.0,"cooldown":2.2},{"id":"rock1","area":Rect2(355.0,-1875,48,200),"warning":1.1,"speed":240.0,"cooldown":2.2}])
+moving_data=Array[Dictionary]([{"id":"ferry0","center":Vector2(540.0,-645),"width":168.0,"amplitude":64.0,"speed":52.0,"route_index":17},{"id":"ferry1","center":Vector2(650.0,-1545),"width":168.0,"amplitude":64.0,"speed":52.0,"route_index":32}])
+branch_routes=Array[PackedVector2Array]([PackedVector2Array(500.0,75,510.0,15,430.0,-45,350.0,-105,350.0,-165),PackedVector2Array(490.0,-1305,480.0,-1365,560.0,-1425,640.0,-1485,560.0,-1545,570.0,-1605)])
+pickup_data=Array[Dictionary]([{"id":"rock_m1","pos":Vector2(500.0,45),"kind":"machine"},{"id":"rock_f1","pos":Vector2(350.0,-915),"kind":"fireball"},{"id":"rock_r1","pos":Vector2(410.0,-1275),"kind":"rapid"},{"id":"rock_l1","pos":Vector2(410.0,-1755),"kind":"laser"}])
+boss_supply=Vector2(610.0,-2230)

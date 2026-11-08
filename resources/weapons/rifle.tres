@@ -1,0 +1,14 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/weapon_spec.gd" id="1"]
+[resource]
+script=ExtResource("1")
+weapon_id="rifle"
+display_name="步枪"
+interval=0.15
+projectile_speed=690.0
+spread_angles=PackedFloat32Array(0.0)
+effect="shot"
+damage=1
+life=2.5
+projectile_kind="linear"
+radius=2.0

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/weapon_spec.gd" id="1"]
+[resource]
+script=ExtResource("1")
+weapon_id="spread"
+display_name="S散弹"
+interval=0.3
+projectile_speed=650.0
+spread_angles=PackedFloat32Array(-0.24,-0.12,0,0.12,0.24)
+effect="spread"
+damage=1
+life=1.6
+projectile_kind="linear"
+radius=2.0

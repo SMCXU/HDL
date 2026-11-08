@@ -1,0 +1,9 @@
+{
+  "candidate_apk": "8927da11696d49c99677c75f4ff96d502456b9a80ac3b7bcf0d999168da28f09",
+  "final_apk": "f4b304f06dcd9e81203baf0a6167e134c862db7175b8c1c0e666fc0826c031eb",
+  "changed_runtime_files": [
+    "resources/levels/redrock.tres",
+    "scripts/ui/hud_renderer.gd"
+  ],
+  "note": "Final differences: HUD opacity honors settings; one previous guard moved down one level for first-ferry safety. Candidate retry/switch samples keep original identity; final route recorded separately."
+}

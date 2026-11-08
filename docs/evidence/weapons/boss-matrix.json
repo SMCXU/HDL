@@ -1,0 +1,508 @@
+{
+  "all_won": true,
+  "budget_cases": [
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 15,
+      "rapid": false,
+      "shots": 120,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 17,
+      "rapid": true,
+      "shots": 150,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 14,
+      "rapid": false,
+      "shots": 172,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 16,
+      "rapid": true,
+      "shots": 200,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 30,
+      "rapid": false,
+      "shots": 64,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 30,
+      "rapid": true,
+      "shots": 75,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 1,
+      "peak_friendly": 0,
+      "rapid": false,
+      "shots": 48,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 1,
+      "peak_friendly": 0,
+      "rapid": true,
+      "shots": 48,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 5,
+      "rapid": false,
+      "shots": 71,
+      "weapon": "fireball"
+    },
+    {
+      "capacity_waits": 0,
+      "peak_beams": 0,
+      "peak_friendly": 5,
+      "rapid": true,
+      "shots": 80,
+      "weapon": "fireball"
+    }
+  ],
+  "results": [
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "rifle": 57
+      },
+      "simulated_s": 9.36666666666671,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "rifle": 57
+      },
+      "simulated_s": 7.49999999999998,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "machine": 57
+      },
+      "simulated_s": 6.58333333333332,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "machine": 57
+      },
+      "simulated_s": 5.64999999999999,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "spread": 29
+      },
+      "simulated_s": 9.08333333333336,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "spread": 29
+      },
+      "simulated_s": 7.64999999999998,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "laser": 22
+      },
+      "simulated_s": 8.76666666666668,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "laser": 22
+      },
+      "simulated_s": 8.76666666666668,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "fireball": 37
+      },
+      "simulated_s": 10.3000000000001,
+      "weapon": "fireball"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 55,
+      "level": "iron_factory",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "fireball": 37
+      },
+      "simulated_s": 9.0666666666667,
+      "weapon": "fireball"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "rifle": 101
+      },
+      "simulated_s": 16.766666666667,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "rifle": 97
+      },
+      "simulated_s": 12.9166666666669,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "machine": 101
+      },
+      "simulated_s": 11.7833333333335,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "machine": 108
+      },
+      "simulated_s": 10.8000000000001,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "spread": 45
+      },
+      "simulated_s": 14.2500000000003,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "spread": 47
+      },
+      "simulated_s": 12.3333333333335,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "laser": 34
+      },
+      "simulated_s": 13.7666666666669,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "laser": 34
+      },
+      "simulated_s": 13.7666666666669,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "fireball": 47
+      },
+      "simulated_s": 13.2833333333336,
+      "weapon": "fireball"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 72,
+      "level": "spillway",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "fireball": 46
+      },
+      "simulated_s": 11.5000000000002,
+      "weapon": "fireball"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "rifle": 96
+      },
+      "simulated_s": 15.8500000000004,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "rifle": 95
+      },
+      "simulated_s": 12.5500000000002,
+      "weapon": "rifle"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "machine": 102
+      },
+      "simulated_s": 11.8000000000002,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "machine": 113
+      },
+      "simulated_s": 11.2166666666668,
+      "weapon": "machine"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "spread": 51
+      },
+      "simulated_s": 15.8500000000004,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "spread": 47
+      },
+      "simulated_s": 12.2833333333335,
+      "weapon": "spread"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "laser": 31
+      },
+      "simulated_s": 12.5166666666669,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "laser": 31
+      },
+      "simulated_s": 12.5166666666669,
+      "weapon": "laser"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": false,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "fireball": 47
+      },
+      "simulated_s": 13.0500000000002,
+      "weapon": "fireball"
+    },
+    {
+      "capacity_waits": 0,
+      "core_remaining": 0,
+      "effective_damage": 42,
+      "level": "redrock",
+      "rapid": true,
+      "result": "won",
+      "score": 2000,
+      "shots": {
+        "fireball": 50
+      },
+      "simulated_s": 12.2666666666669,
+      "weapon": "fireball"
+    }
+  ],
+  "validation_type": "30 isolated boss setups (five weapons x three bosses x R off/on); fixed-step invulnerable input replay, weapon locked, pickups removed; not normal avoidance, human timing or device performance"
+}

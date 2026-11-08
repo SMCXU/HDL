@@ -1,0 +1,8 @@
+{
+  "candidate_apk": "8927da11696d49c99677c75f4ff96d502456b9a80ac3b7bcf0d999168da28f09",
+  "final_apk": "c2e13f13fc155c22a9dd0b8310c55d9372b45c32a69d610eade90013fa1d753e",
+  "changed_runtime_files": [
+    "scripts/ui/hud_renderer.gd"
+  ],
+  "note": "Only UI opacity response changed. Candidate retry/switch samples retain candidate build identity; final route and screenshots recorded separately."
+}

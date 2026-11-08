@@ -1,0 +1,14 @@
+{
+  "stage": "0.1.0 prototype, 36 motion/transition frames; final acceptance pending",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "built_utc": "2026-11-03T12:11:16.527342+00:00",
+  "apk_sha256": "50b76aaf89d0d8d13d4d9e6ce7155d9e9227863feabab28cee189aa8bb6568a7",
+  "runtime_source_count": 88,
+  "test_result": "60/60",
+  "long_human_soak": "not tested; user unavailable",
+  "input_feedback": "prior input-fix build: user reported mis-touch clearly improved",
+  "installed": "Success",
+  "launch_status": "ok",
+  "final_visual_check": "pending: device asleep with keyguard; no game screenshot accepted",
+  "closure_date": "2026-11-04"
+}

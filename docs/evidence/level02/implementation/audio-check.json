@@ -1,0 +1,35 @@
+{
+  "type": "numeric only; not listening",
+  "assets": [
+    {
+      "asset": "assets/audio/spillway.wav",
+      "clipped_samples": 0,
+      "loop_boundary_difference": 0
+    },
+    {
+      "asset": "assets/audio/ascent.wav",
+      "clipped_samples": 0,
+      "loop_boundary_difference": 0
+    },
+    {
+      "asset": "assets/audio/warden.wav",
+      "clipped_samples": 0,
+      "loop_boundary_difference": 0
+    },
+    {
+      "asset": "assets/audio/power_down.wav",
+      "clipped_samples": 0,
+      "loop_boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/arm_break.wav",
+      "clipped_samples": 0,
+      "loop_boundary_difference": null
+    },
+    {
+      "asset": "assets/audio/vent.wav",
+      "clipped_samples": 0,
+      "loop_boundary_difference": null
+    }
+  ]
+}

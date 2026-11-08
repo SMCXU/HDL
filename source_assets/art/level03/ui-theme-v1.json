@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-05 Asia/Shanghai",
+  "kind": "generated visual concept preview; not actual gameplay, runtime asset or validated platform coordinates",
+  "tool": "built-in image_gen via imagegen skill",
+  "source_image": "ui-theme-v1-source.png",
+  "preview": "docs/evidence/level03/ui-theme-v1.png",
+  "sha256": "a62f4681a381aef3c61c7505ca1d4cb62db0e085951246c82e1e768994f01ff9",
+  "status": "User approved design and visual style and directly authorized implementation on 2026-11-05",
+  "notes": "Color/HUD/theme reference only. Jump distances, visual density, occlusion and hazard timing require production validation. Existing 0.3.2 game and APK unchanged."
+}

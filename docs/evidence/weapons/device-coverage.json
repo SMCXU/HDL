@@ -1,0 +1,48 @@
+{
+  "device-route": {
+    "weapons_observed": [
+      "fireball",
+      "laser",
+      "machine",
+      "rifle"
+    ],
+    "rapid_values": [
+      "false",
+      "true"
+    ],
+    "peak_total_bullets": 18,
+    "peak_beams": 1,
+    "validation_type": "single-device automated telemetry; not manual input or isolated GPU time"
+  },
+  "device-retries-complete": {
+    "weapons_observed": [
+      "fireball",
+      "laser",
+      "machine",
+      "rifle",
+      "spread"
+    ],
+    "rapid_values": [
+      "true"
+    ],
+    "peak_total_bullets": 32,
+    "peak_beams": 1,
+    "validation_type": "single-device automated telemetry; not manual input or isolated GPU time"
+  },
+  "device-switches": {
+    "weapons_observed": [
+      "fireball",
+      "laser",
+      "machine",
+      "rifle",
+      "spread"
+    ],
+    "rapid_values": [
+      "false",
+      "true"
+    ],
+    "peak_total_bullets": 32,
+    "peak_beams": 1,
+    "validation_type": "single-device automated telemetry; not manual input or isolated GPU time"
+  }
+}

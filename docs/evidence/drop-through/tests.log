@@ -1,0 +1,244 @@
++ /Users/huangbo/WS_VS/HDL/work/engine/Godot.app/Contents/MacOS/Godot --headless --path /Users/huangbo/WS_VS/HDL --editor --import --quit
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 项目初始化 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 正在扫描文件结构……[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 正在加载全局类名……[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | 正在校验 GDExtension……[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 正在创建自动加载脚本……[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 正在初始化插件……[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1mupdate_scripts_classes[22m | Started 正在注册全局类…… (7 steps)[39m[0m
+[   0% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  12% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  25% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  37% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  50% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  62% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  75% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[92m[ DONE ][39m [1mupdate_scripts_classes[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started 正在扫描动作…… (24 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | boss-desktop.png[39m[0m
+[   4% ] [90m[1m_update_scan_actions[22m | climb-desktop.png[39m[0m
+[   8% ] [90m[1m_update_scan_actions[22m | final-device.png[39m[0m
+[  12% ] [90m[1m_update_scan_actions[22m | middle-desktop.png[39m[0m
+[  16% ] [90m[1m_update_scan_actions[22m | start-desktop.png[39m[0m
+[  20% ] [90m[1m_update_scan_actions[22m | ASSET_MANIFEST.csv[39m[0m
+[  24% ] [90m[1m_update_scan_actions[22m | device.png[39m[0m
+[  28% ] [90m[1m_update_scan_actions[22m | frame-samples.csv[39m[0m
+[  32% ] [90m[1m_update_scan_actions[22m | run-results-v2.csv[39m[0m
+[  36% ] [90m[1m_update_scan_actions[22m | run-results-v3.csv[39m[0m
+[  40% ] [90m[1m_update_scan_actions[22m | run-results.csv[39m[0m
+[  44% ] [90m[1m_update_scan_actions[22m | device.png[39m[0m
+[  48% ] [90m[1m_update_scan_actions[22m | frame-samples.csv[39m[0m
+[  52% ] [90m[1m_update_scan_actions[22m | run-results-v2.csv[39m[0m
+[  56% ] [90m[1m_update_scan_actions[22m | run-results-v3.csv[39m[0m
+[  60% ] [90m[1m_update_scan_actions[22m | run-results.csv[39m[0m
+[  64% ] [90m[1m_update_scan_actions[22m | device.png[39m[0m
+[  68% ] [90m[1m_update_scan_actions[22m | frame-samples.csv[39m[0m
+[  72% ] [90m[1m_update_scan_actions[22m | run-results-v2.csv[39m[0m
+[  76% ] [90m[1m_update_scan_actions[22m | run-results-v3.csv[39m[0m
+[  80% ] [90m[1m_update_scan_actions[22m | run-results.csv[39m[0m
+[  84% ] [90m[1m_update_scan_actions[22m | device.png[39m[0m
+[  88% ] [90m[1m_update_scan_actions[22m | l2climb.png[39m[0m
+[  92% ] [90m[1m_update_scan_actions[22m | device-live.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 正在导入或重新导入资产 (24 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   4% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   8% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  12% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  16% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  20% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  24% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  28% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  32% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  36% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  40% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  44% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  48% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  52% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  56% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  60% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  64% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  68% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  72% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  76% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  80% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  84% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  88% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[  92% ] [90m[1mreimport[22m | 正在准备重新导入文件……[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在执行重新导入的前置操作……[39m[0m
+[   0% ] [90m[1mreimport[22m | run-results.csv[39m[0m
+[   4% ] [90m[1mreimport[22m | run-results-v3.csv[39m[0m
+[   8% ] [90m[1mreimport[22m | ASSET_MANIFEST.csv[39m[0m
+[  12% ] [90m[1mreimport[22m | run-results-v2.csv[39m[0m
+[  16% ] [90m[1mreimport[22m | frame-samples.csv[39m[0m
+[  20% ] [90m[1mreimport[22m | run-results-v2.csv[39m[0m
+[  24% ] [90m[1mreimport[22m | run-results-v3.csv[39m[0m
+[  28% ] [90m[1mreimport[22m | run-results.csv[39m[0m
+[  32% ] [90m[1mreimport[22m | frame-samples.csv[39m[0m
+[  36% ] [90m[1mreimport[22m | frame-samples.csv[39m[0m
+[  40% ] [90m[1mreimport[22m | run-results-v2.csv[39m[0m
+[  44% ] [90m[1mreimport[22m | run-results-v3.csv[39m[0m
+[  48% ] [90m[1mreimport[22m | run-results.csv[39m[0m
+[  52% ] [90m[1mreimport[22m | run-results.csv[39m[0m
+[  56% ] [90m[1mreimport[22m | run-results-v3.csv[39m[0m
+[  60% ] [90m[1mreimport[22m | ASSET_MANIFEST.csv[39m[0m
+[  64% ] [90m[1mreimport[22m | run-results-v2.csv[39m[0m
+[  68% ] [90m[1mreimport[22m | frame-samples.csv[39m[0m
+[  72% ] [90m[1mreimport[22m | run-results-v2.csv[39m[0m
+[  76% ] [90m[1mreimport[22m | run-results-v3.csv[39m[0m
+[  80% ] [90m[1mreimport[22m | run-results.csv[39m[0m
+[  84% ] [90m[1mreimport[22m | frame-samples.csv[39m[0m
+[  88% ] [90m[1mreimport[22m | frame-samples.csv[39m[0m
+[  92% ] [90m[1mreimport[22m | run-results-v2.csv[39m[0m
+[  96% ] [90m[1mreimport[22m | 正在结束资产导入……[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started 正在导入或重新导入资产 (24 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | 正在执行重新导入的后置操作……[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started 正在加载编辑器 (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | 正在加载编辑器布局……[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | 正在加载停靠面板……[39m[0m
+[  33% ] [90m[1mloading_editor_layout[22m | 正在重新打开场景……[39m[0m
+[  50% ] [90m[1mloading_editor_layout[22m | 正在加载中央编辑器布局……[39m[0m
+[  66% ] [90m[1mloading_editor_layout[22m | 正在加载插件窗口布局……[39m[0m
+[  83% ] [90m[1mloading_editor_layout[22m | 编辑器布局就绪。[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS new run creates healthy player and first bounded encounter
+PASS movement is fixed-step and correctly scaled
+PASS jump starts from ground
+PASS holding jump does not repeatedly auto-jump
+PASS fast fall lands on one-way platform without tunneling
+PASS platform can be crossed from below
+PASS invincibility prevents duplicate damage
+PASS rifle emits one projectile
+PASS spread emits three distinct projectiles
+PASS weapon pickup equips and is consumed
+PASS checkpoint reset clears encounter and restores baseline
+PASS arena activates fresh boss
+PASS boss defeat ends run exactly once
+PASS retry cleans previous boss and projectiles
+PASS focus loss pauses and clears held input
+PASS pause menu opens settings
+PASS settings returns to paused state without resuming combat
+PASS malformed save types fall back and numeric ranges are clamped
+PASS boss alternates fan and aimed attacks
+PASS bullet starts at shared muzzle for face=-1 up=false moving=false
+PASS bullet starts at shared muzzle for face=-1 up=false moving=true
+PASS bullet starts at shared muzzle for face=-1 up=true moving=false
+PASS bullet starts at shared muzzle for face=-1 up=true moving=true
+PASS bullet starts at shared muzzle for face=1 up=false moving=false
+PASS bullet starts at shared muzzle for face=1 up=false moving=true
+PASS bullet starts at shared muzzle for face=1 up=true moving=false
+PASS bullet starts at shared muzzle for face=1 up=true moving=true
+PASS crouch muzzle follows lowered pose
+PASS scaled touch center maps to left
+PASS scaled touch center maps to right
+PASS scaled touch center maps to up
+PASS scaled touch center maps to down
+PASS scaled touch center maps to jump
+PASS scaled touch center maps to fire
+PASS dragging finger off fire releases held action
+PASS pause freezes effects and clears touches
+PASS death reaches final pose without blocking game result
+PASS dead player cannot emit bullets
+PASS retry clears presentation and effect pool
+PASS effect capacity remains bounded during burst
+PASS expired effects are returned to reusable pool
+PASS boss intro shield blocks damage while visibly active
+PASS victory clears danger and cannot be awarded twice
+PASS all authored platform tops are within jump reach from ground
+PASS player can crouch on a raised platform
+PASS touch controls fit canvas at scale 0.8
+PASS touch controls fit canvas at scale 1.0
+PASS touch controls fit canvas at scale 1.3
+PASS critical warning can replace a lower-priority occupied voice
+PASS 20 logical retries stay within static-memory delta budget (not Android soak)
+PASS joystick dead zone ignores a centered resting thumb
+PASS one joystick finger supports intentional diagonal aiming
+PASS direction hysteresis tolerates small thumb wobble
+PASS returning to joystick dead zone releases direction
+PASS second finger cannot steal captured direction stick
+PASS sliding jump finger into fire does not switch actions
+PASS captured jump can reenter its original button only
+PASS independent captured fingers combine move jump and fire logically
+PASS pause clears all captured finger ownership
+PASS level defines 27 bounded encounters across three sectors
+PASS living encounter blocks bypassing its exit
+PASS defeated encounter opens immediately without a timer
+PASS first sector completion establishes next-sector checkpoint
+PASS checkpoint retry restores score and only next sector first group
+PASS full restart clears checkpoint progress and score
+PASS Android back is routed by game instead of engine automatic quit
+PASS menu background tap does not start a run
+PASS settings opens only through its visible button
+PASS settings outside rows cannot change values
+PASS Android back returns settings to originating menu
+PASS Android back pauses and releases gameplay input
+PASS settings back preserves paused state rather than resuming combat
+PASS back from pause resumes cleanly
+PASS death presentation ignores premature retry tap
+PASS visible retry button starts after death presentation
+PASS spillway registers six vertical sectors and eleven encounters
+PASS entering a new level resets health weapon score and camera
+PASS optional relay never blocks the vertical route
+PASS optional relay awards a reward without becoming an exit gate
+PASS destroyed target cannot award score twice
+PASS checkpoint restores same-level position score and committed target state
+PASS checkpoint pickup state is copied rather than aliased
+PASS vent warning does not apply damage
+PASS active vent damages once within player invulnerability window
+PASS paused game freezes environmental danger timers
+PASS destroyed supply node permanently disables its electric area
+PASS fall recovery repositions even during invulnerability and applies one health cost
+PASS last-health fall enters normal death lifecycle
+PASS outside the visible starting deck there is no invisible global floor
+PASS upper-world projectiles survive and camera follows vertical coordinates
+PASS vertical camera never tracks player horizontal position
+PASS higher checkpoint commits even when its x coordinate moves left
+PASS stable checkpoint ID restores the higher-left checkpoint
+PASS camera can return downward without decreasing recorded climb progress
+PASS ordinary jump inside camera dead zone does not drag the view upward
+PASS boss does not activate just because player is horizontally near its coordinates
+PASS second boss activates with independent arms and core
+PASS armored core ignores damage until both weapons are destroyed
+PASS arm destruction only changes the struck part
+PASS destroying both arms exposes a separately damageable core
+PASS locked laser does not continue tracking the moving player
+PASS second boss completes once and cannot award repeated victory score
+PASS debug completion does not mutate real unlock or best score
+PASS twenty logical level switches keep nodes bounded and clear level state
+PASS returning to factory restores original spawn boss and horizontal camera
+PASS locked second-level card cannot start through pointer input
+PASS Android back leaves level selection without exiting application
+PASS legacy score and settings migrate without guessing a level unlock
+PASS real first-level completion persists unlock and independent score atomically
+PASS unlocked card enters a fresh second-level run
+PASS down plus a fresh jump crosses overlapping platform rectangles downward
+PASS drop consumes jump buffer while allowing simultaneous shooting
+PASS held drop combo lands on next layer without chain dropping or bouncing
+PASS descending preserves highest progress and committed checkpoint
+PASS release and press jump again permits a second deliberate drop
+PASS pause preserves in-flight platform exclusion without advancing the fall
+PASS retry clears platform exclusion and buffered jump
+PASS diagonal down jump remains a normal jump and cannot accidentally drop
+PASS shallow touch-stick down is insufficient for a drop
+PASS deep centered touch-stick down plus captured jump triggers a drop
+PASS summit solid floor wins over overlapping droppable platforms
+PASS first-level solid ground cannot be dropped through
+PASS first-level raised one-way platform also supports deliberate dropping
+PASS changing level clears pending platform exclusion
+PASS 20-minute simulated soak keeps audio voices and transient objects bounded
+RESULT 125/125 passed
+

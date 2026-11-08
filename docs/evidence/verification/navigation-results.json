@@ -1,0 +1,75 @@
+{
+  "validation_type": "single-device synthetic navigation, not human touch acceptance",
+  "checks": [
+    {
+      "name": "01-menu",
+      "mode": "menu",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "02-background-tap",
+      "mode": "menu",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "03-settings",
+      "mode": "settings",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "04-settings-back",
+      "mode": "menu",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "05-playing",
+      "mode": "playing",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "06-back-paused",
+      "mode": "paused",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "07-paused-settings",
+      "mode": "settings",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "08-settings-back-paused",
+      "mode": "paused",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "09-back-resumed",
+      "mode": "playing",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "10-isolated-menu",
+      "mode": "menu",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "11-low-effects-settings",
+      "mode": "settings",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "12-restart-menu",
+      "mode": "menu",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "13-restored-settings-screen",
+      "mode": "settings",
+      "result": "fresh telemetry observed; screenshot review required"
+    },
+    {
+      "name": "settings survive process restart",
+      "result": "exact saved bytes preserved; screenshot review required"
+    }
+  ],
+  "settings_restored": true
+}

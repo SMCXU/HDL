@@ -1,0 +1,30 @@
+{
+  "validation_type": "single-device capture; human play not automatically certified",
+  "source": "work/weapons/device-retries-complete/frame-samples.csv",
+  "level_ids": [
+    "redrock"
+  ],
+  "interaction_sources": [
+    "automated_debug_replay"
+  ],
+  "wall_span_s": 93.305,
+  "excluded_invalid_interval_rows": 1,
+  "playing_frames": 4128,
+  "sampled_playing_s": 68.588716,
+  "median_frame_ms": 16.59,
+  "p95_frame_ms": 19.994,
+  "p99_frame_ms": 22.781,
+  "frames_ge_100ms": 0,
+  "memory_static_peak_bytes": 63755209,
+  "first_5min": {
+    "playing_frames": 4128,
+    "sampled_playing_s": 68.588716,
+    "median_frame_ms": 16.59,
+    "p95_frame_ms": 19.994,
+    "p99_frame_ms": 22.781,
+    "frames_ge_100ms": 0,
+    "memory_static_peak_bytes": 63755209
+  },
+  "last_5min": null,
+  "note": "Callback intervals are not isolated GPU/presentation times. Static memory excludes Android PSS/GPU. First/last windows require documented coverage; summary never certifies human input or final 20-minute acceptance. Legacy records lack interval-valid flags."
+}

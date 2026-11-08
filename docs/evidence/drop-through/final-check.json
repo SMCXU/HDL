@@ -1,0 +1,13 @@
+{
+  "validation_type": "single-device installed launch and actual screenshot, no manual input acceptance",
+  "version": [
+    "versionCode=6 minSdk=24 targetSdk=36",
+    "versionName=0.3.2-prototype"
+  ],
+  "remaining_diagnostics": {
+    "qa-replay.json": false,
+    "telemetry.flag": false,
+    "preview-level.json": false
+  },
+  "error_lines": []
+}

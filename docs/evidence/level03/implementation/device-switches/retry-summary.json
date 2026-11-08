@@ -1,0 +1,54 @@
+{
+  "validation_type": "single-device automated switches; not manual input or long soak",
+  "test_mode": "switches",
+  "result": "completed",
+  "completed_cycles": 33,
+  "warmup_samples_excluded": 3,
+  "stable_samples": 30,
+  "groups": [
+    {
+      "level_id": "iron_factory",
+      "checkpoint": false,
+      "samples": 10,
+      "baseline_bytes": 61596032.0,
+      "last_bytes": 61609476.0,
+      "peak_bytes": 61609476.0,
+      "last_growth_bytes": 13444.0,
+      "budget_bytes": 20971520,
+      "within_static_growth_budget": true,
+      "monotonically_increasing": false
+    },
+    {
+      "level_id": "redrock",
+      "checkpoint": false,
+      "samples": 10,
+      "baseline_bytes": 61598092.0,
+      "last_bytes": 61599600.0,
+      "peak_bytes": 61599600.0,
+      "last_growth_bytes": 1508.0,
+      "budget_bytes": 20971520,
+      "within_static_growth_budget": true,
+      "monotonically_increasing": true
+    },
+    {
+      "level_id": "spillway",
+      "checkpoint": false,
+      "samples": 10,
+      "baseline_bytes": 61633278.0,
+      "last_bytes": 61634538.0,
+      "peak_bytes": 61634538.0,
+      "last_growth_bytes": 1260.0,
+      "budget_bytes": 20971520,
+      "within_static_growth_budget": true,
+      "monotonically_increasing": true
+    }
+  ],
+  "child_node_counts": [
+    4
+  ],
+  "audio_voice_node_counts": [
+    12
+  ],
+  "requirement_20_stable_samples_observed": true,
+  "note": "Static-memory bounds alone do not establish Android PSS/GPU stability or absence of leaks. Compare device-metrics.json separately."
+}

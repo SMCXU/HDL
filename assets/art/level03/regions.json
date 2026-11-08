@@ -1,0 +1,41 @@
+{
+  "regions": [
+    [
+      37,
+      80,
+      691,
+      213
+    ],
+    [
+      797,
+      80,
+      694,
+      166
+    ],
+    [
+      181,
+      329,
+      300,
+      367
+    ],
+    [
+      696,
+      408,
+      782,
+      265
+    ],
+    [
+      251,
+      775,
+      205,
+      201
+    ],
+    [
+      969,
+      763,
+      243,
+      220
+    ]
+  ],
+  "notes": "Measured original transparent atlas; collision top aligns with region top; tiny transparent margin remains."
+}

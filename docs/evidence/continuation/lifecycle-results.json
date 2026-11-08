@@ -1,0 +1,21 @@
+{
+  "type": "single-device automated smoke only",
+  "cold_launches": [
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nStatus: ok\nLaunchState: COLD\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nTotalTime: 705\nWaitTime: 708\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nStatus: ok\nLaunchState: COLD\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nTotalTime: 696\nWaitTime: 699\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nStatus: ok\nLaunchState: COLD\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nTotalTime: 668\nWaitTime: 675\nComplete\n"
+  ],
+  "background_cycles": [
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 56\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 40\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 39\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 69\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 49\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 42\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 48\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 41\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 47\nComplete\n",
+    "Starting: Intent { cmp=com.hdl.ironbreakout/com.godot.game.GodotAppLauncher }\nWarning: Activity not started, its current task has been brought to the front\nStatus: ok\nLaunchState: UNKNOWN (0)\nActivity: com.hdl.ironbreakout/com.godot.game.GodotApp\nWaitTime: 42\nComplete\n"
+  ],
+  "note": "Timing returned by am start is launcher timing, not first-interactive frame; screenshots must be viewed. This command uses synthetic single-point taps, not real three-finger touch."
+}

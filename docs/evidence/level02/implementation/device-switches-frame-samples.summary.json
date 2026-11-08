@@ -1,0 +1,31 @@
+{
+  "validation_type": "single-device capture; human play not automatically certified",
+  "source": "work/level02/device-switches/frame-samples.csv",
+  "level_ids": [
+    "iron_factory",
+    "spillway"
+  ],
+  "interaction_sources": [
+    "automated_debug_replay"
+  ],
+  "wall_span_s": 69.111,
+  "excluded_invalid_interval_rows": 1,
+  "playing_frames": 4142,
+  "sampled_playing_s": 68.999072,
+  "median_frame_ms": 16.617,
+  "p95_frame_ms": 18.417,
+  "p99_frame_ms": 21.657,
+  "frames_ge_100ms": 1,
+  "memory_static_peak_bytes": 58368494,
+  "first_5min": {
+    "playing_frames": 4142,
+    "sampled_playing_s": 68.999072,
+    "median_frame_ms": 16.617,
+    "p95_frame_ms": 18.417,
+    "p99_frame_ms": 21.657,
+    "frames_ge_100ms": 1,
+    "memory_static_peak_bytes": 58368494
+  },
+  "last_5min": null,
+  "note": "Callback intervals are not isolated GPU/presentation times. Static memory excludes Android PSS/GPU. First/last windows require documented coverage; summary never certifies human input or final 20-minute acceptance. Legacy records lack interval-valid flags."
+}

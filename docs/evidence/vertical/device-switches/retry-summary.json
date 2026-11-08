@@ -1,0 +1,42 @@
+{
+  "validation_type": "single-device automated switches; not manual input or long soak",
+  "test_mode": "switches",
+  "result": "completed",
+  "completed_cycles": 23,
+  "warmup_samples_excluded": 3,
+  "stable_samples": 20,
+  "groups": [
+    {
+      "level_id": "iron_factory",
+      "checkpoint": false,
+      "samples": 10,
+      "baseline_bytes": 58658216.0,
+      "last_bytes": 58659112.0,
+      "peak_bytes": 58659120.0,
+      "last_growth_bytes": 896.0,
+      "budget_bytes": 20971520,
+      "within_static_growth_budget": true,
+      "monotonically_increasing": false
+    },
+    {
+      "level_id": "spillway",
+      "checkpoint": false,
+      "samples": 10,
+      "baseline_bytes": 58659618.0,
+      "last_bytes": 58660266.0,
+      "peak_bytes": 58660266.0,
+      "last_growth_bytes": 648.0,
+      "budget_bytes": 20971520,
+      "within_static_growth_budget": true,
+      "monotonically_increasing": true
+    }
+  ],
+  "child_node_counts": [
+    4
+  ],
+  "audio_voice_node_counts": [
+    12
+  ],
+  "requirement_20_stable_samples_observed": true,
+  "note": "Static-memory bounds alone do not establish Android PSS/GPU stability or absence of leaks. Compare device-metrics.json separately."
+}

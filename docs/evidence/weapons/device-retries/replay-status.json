@@ -1,0 +1,92 @@
+{
+  "deaths": 7,
+  "duration_s": 180.0,
+  "elapsed_s": 22.5166666666667,
+  "invulnerable": true,
+  "level_id": "redrock",
+  "result": "cancelled_by_human_input",
+  "retry_count": 7,
+  "retry_samples": [
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 16,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 0,
+      "effects": 0,
+      "level_id": "redrock",
+      "memory_static_bytes": 59561665.0,
+      "objects": 1586.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 15,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 1,
+      "effects": 0,
+      "level_id": "redrock",
+      "memory_static_bytes": 63674915.0,
+      "objects": 1610.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 18,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 2,
+      "effects": 0,
+      "level_id": "redrock",
+      "memory_static_bytes": 63694945.0,
+      "objects": 1612.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 16,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 3,
+      "effects": 0,
+      "level_id": "redrock",
+      "memory_static_bytes": 63677977.0,
+      "objects": 1612.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 17,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 4,
+      "effects": 0,
+      "level_id": "redrock",
+      "memory_static_bytes": 63692205.0,
+      "objects": 1612.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 30,
+      "checkpoint": true,
+      "children": 4,
+      "cycle": 5,
+      "effects": 0,
+      "level_id": "redrock",
+      "memory_static_bytes": 63692237.0,
+      "objects": 1613.0
+    },
+    {
+      "audio_voice_nodes": 12,
+      "bullets": 28,
+      "checkpoint": false,
+      "children": 4,
+      "cycle": 6,
+      "effects": 2,
+      "level_id": "redrock",
+      "memory_static_bytes": 63718211.0,
+      "objects": 1615.0
+    }
+  ],
+  "run_id": "88b7e4298c4e481ab94e4321c5cec380",
+  "test_mode": "retries",
+  "validation_type": "single-device automated debug replay, not human play or touch hardware validation",
+  "wins": 0
+}

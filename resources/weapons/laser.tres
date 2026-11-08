@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/weapon_spec.gd" id="1"]
+[resource]
+script=ExtResource("1")
+weapon_id="laser"
+display_name="L激光"
+interval=0.4
+projectile_speed=0.0
+spread_angles=PackedFloat32Array(0.0)
+effect="laser_shot"
+damage=3
+life=0.1
+projectile_kind="beam"
+radius=3.0
+penetration=3
+beam_length=720.0

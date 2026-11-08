@@ -1,0 +1,14 @@
+{
+  "deaths": 0,
+  "duration_s": 90.0,
+  "elapsed_s": 90.0166666666628,
+  "invulnerable": true,
+  "level_id": "redrock",
+  "result": "completed",
+  "retry_count": 0,
+  "retry_samples": [],
+  "run_id": "9227022723c94547bd5135a47450d2c9",
+  "test_mode": "route",
+  "validation_type": "single-device automated debug replay, not human play or touch hardware validation",
+  "wins": 2
+}

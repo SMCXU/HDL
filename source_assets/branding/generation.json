@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-05",
+  "tool": "built-in image_gen",
+  "use_case": "logo-brand",
+  "prompt": "Use case: logo-brand. Asset type: production Android launcher icon for original sci-fi run-and-gun game Iron Breakout. Create one square 1024x1024 fully opaque artwork, full bleed dark navy background. A bold original futuristic gunmetal armored commando helmet facing slightly right, bust emblem, luminous cyan horizontal visor, thick beveled steel plates with restrained battle wear, small amber edge lights and a few orange sparks. Detailed crisp painted pixel-art-inspired game illustration with hard clean edges, premium cohesive industrial sci-fi style. Helmet and compact shield silhouette occupy central 62% of canvas, all essential parts within central circular safe zone, strong readability at 48px. Background subtle navy steel and cyan atmospheric halo; sparse orange diagonals on lower sides. Dramatic cyan rim light against dark armor, recognizable chunky silhouette, controlled details. No letters, no words, no border, no rounded square baked into artwork, no app mockup, no screenshot, no existing franchise logos or characters. This is actual icon artwork, not presentation.",
+  "source": "armored-helmet-source.png",
+  "provenance": "Original project illustration; no commercial game assets or reference images",
+  "derivatives": "tools/build_app_icon.gd; resizing and Android safe-area layout only"
+}

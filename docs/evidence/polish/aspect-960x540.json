@@ -1,0 +1,13 @@
+{
+  "note": "canvas_items keep-aspect may return only the 16:9 gameplay viewport, excluding native letterbox margins.",
+  "scenario": "normal",
+  "type": "desktop window simulation, not a physical Android device",
+  "viewport_texture_size": [
+    960,
+    540
+  ],
+  "window_size": [
+    960,
+    540
+  ]
+}
